@@ -26,6 +26,7 @@ Mambas on vanem conda - kasutada esimest rida, uuematega kasutatakse teist
 ```
 conda install -c conda-forge -c bioconda sourmash
 ```
+Lisatakse moodulid `bioconda` ja `sourmash`
 ### Keskonna loomine yml faili järgi
 ```
 conda env create -f my_yml.yml
